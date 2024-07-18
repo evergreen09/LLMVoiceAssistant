@@ -1,0 +1,7 @@
+mlx_models/
+mlx-examples/
+OpenVoice_Samples/
+*.mp3
+*.wav
+*.txt
+*.json
